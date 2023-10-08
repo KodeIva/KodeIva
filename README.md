@@ -30,7 +30,7 @@ I am keen to transform my basic knowledge into professional skills, and looking 
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/KodeIva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KodeIva&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodeIva&theme=buefy&layout=compact" />
 </a>
@@ -40,8 +40,9 @@ I am keen to transform my basic knowledge into professional skills, and looking 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://www.linkedin.com/in/iva-karadjova-4915572b/"></a>
-<a href="https://www.codepen.io"><img alt="Instagram" src="https://https://codepen.io/Iva-19"></a>
+
+  <a href="https://www.linkedin.com/in/KodeIva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.codepen.io"><img alt="CodePen" src="https://https://codepen.io/Iva-19"></a>
 </p>
 
 
