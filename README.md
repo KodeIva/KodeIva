@@ -10,6 +10,14 @@ As a self-taught and recent graduate from edX Trilogy Front-End Bootcamp I have 
 
 I am keen to transform my basic knowledge into professional skills, and looking for an Entry Level/ Junior Developer position that will offer opportunity to learn and continue my further development under the mentorship of professionals.
 
+### 📚 Education
+
+<a href="https://www.edx.org/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /></a>
+<a href="https://www.freecodecamp.org/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></a>
+<a href="https://www.udemy.com/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
+<a href="https://scrimba.com/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer" ><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" /></a>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
