@@ -51,7 +51,7 @@ I am keen to transform my basic knowledge into professional skills, and looking 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/KodeIva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/KodeIva" target="_blank"><img src="https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white" alt="LinkedIn"></a>
 <a href="https://https://codepen.io/Iva-19" target="_blank"><img src="https://img.shields.io/badge/Codepen-KodeIva?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
 
 </p>
