@@ -11,15 +11,16 @@ As a self-taught and recent graduate from edX Trilogy Front-End Bootcamp I have 
 I am keen to transform my basic knowledge into professional skills, and looking for an Entry Level/ Junior Developer position that will offer opportunity to learn and continue my further development under the mentorship of professionals.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
+/*
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)*/
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery) 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
