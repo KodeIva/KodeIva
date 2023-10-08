@@ -11,15 +11,16 @@ As a self-taught and recent graduate from edX Trilogy Front-End Bootcamp I have 
 I am keen to transform my basic knowledge into professional skills, and looking for an Entry Level/ Junior Developer position that will offer opportunity to learn and continue my further development under the mentorship of professionals.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-/*
+<!--
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)*/
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) -->
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white")
   [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery) 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -43,7 +44,7 @@ I am keen to transform my basic knowledge into professional skills, and looking 
 <p align="center">
 
   <a href="https://www.linkedin.com/in/KodeIva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.codepen.io"><img alt="CodePen" src="https://https://codepen.io/Iva-19"></a>
+<a href="https://https://codepen.io/Iva-19"><img alt="CodePen" src="https://https://codepen.io/Iva-19"></a>
 </p>
 
 
