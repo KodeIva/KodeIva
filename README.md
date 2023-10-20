@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h2> Hey there! I'm Iva.</h2>
+### Hi there 👋 I'm Iva.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
