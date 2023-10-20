@@ -40,7 +40,7 @@ I am keen to transform my basic knowledge into professional skills, and looking 
 <br/>
 
 <a href="https://github.com/KodeIva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KodeIva&theme=buefy&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KodeIva&theme=buefy&show_icons=true&theme=react" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodeIva&theme=buefy&layout=compact" />
 </a>
 
