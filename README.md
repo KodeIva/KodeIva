@@ -52,8 +52,8 @@ I am keen to transform my basic knowledge into professional skills, and looking 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/KodeIva" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://codepen.io/Iva-19" target="_blank"><img src="https://img.shields.io/badge/Codepen-KodeIva?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a> 
 
-<a href="https://codepen.io/Iva-19" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodeiva&layout=donut" alt="CodePen"></a>
 
 
 
@@ -62,7 +62,7 @@ I am keen to transform my basic knowledge into professional skills, and looking 
 
 <!--
 **KodeIva/KodeIva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://codepen.io/Iva-19" target="_blank"><img src="https://img.shields.io/badge/Codepen-KodeIva?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a> 
+<a href="https://codepen.io/Iva-19" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodeiva&layout=donut" alt="CodePen"></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
