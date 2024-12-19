@@ -52,8 +52,8 @@ I am keen to transform my basic knowledge into professional skills, and looking 
 <br/>
 <br />
 <a href="https://github.com/KodeIva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KodeIva&show_icons=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodeIva&theme=react&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KodeIva&show_icons=true&theme=ambient_gradient" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodeIva&theme=ambient_gradient&layout=compact" />
 </a>
 
 
@@ -66,15 +66,13 @@ I am keen to transform my basic knowledge into professional skills, and looking 
 <a href="https://www.linkedin.com/in/KodeIva" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://codepen.io/Iva-19" target="_blank"><img src="https://img.shields.io/badge/Codepen-KodeIva?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a> 
 
-
-
-
 </p>
 
 
 <!--
 **KodeIva/KodeIva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://codepen.io/Iva-19" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodeiva&layout=donut" alt="CodePen"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KodeIva&show_icons=true&theme=react" />
 Here are some ideas to get you started:
   ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
 - 🔭 I’m currently working on ...
