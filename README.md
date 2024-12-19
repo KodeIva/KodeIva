@@ -44,9 +44,6 @@ I am keen to transform my basic knowledge into professional skills, and looking 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodeIva&theme=react&layout=compact" />
 </a>
 
-<a>
- ![KodeIva's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodeiva&show_icons=true&theme=transparent)
-</a>
 
 <br/>
 
@@ -56,6 +53,9 @@ I am keen to transform my basic knowledge into professional skills, and looking 
 
 <a href="https://www.linkedin.com/in/KodeIva" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://codepen.io/Iva-19" target="_blank"><img src="https://img.shields.io/badge/Codepen-KodeIva?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
+<a href="https://codepen.io/Iva-19" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodeiva&layout=donut" alt="CodePen"></a>
+
+
 
 </p>
 
