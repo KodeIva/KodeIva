@@ -45,7 +45,7 @@ I am keen to transform my basic knowledge into professional skills, and looking 
 </a>
 
 <a>
- [![KodeIva's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ ![KodeIva's GitHub stats](https://github-readme-stats.vercel.app/api?username=kodeiva&show_icons=true&theme=transparent)
 </a>
 
 <br/>
