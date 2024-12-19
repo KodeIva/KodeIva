@@ -44,6 +44,10 @@ I am keen to transform my basic knowledge into professional skills, and looking 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodeIva&theme=react&layout=compact" />
 </a>
 
+<a>
+ [![KodeIva's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
