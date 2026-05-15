@@ -46,8 +46,7 @@ I am keen to transform my basic knowledge into professional skills, and looking 
   <hr/>
 - 🌱 I’m currently learning ... <br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=FFD43B)
+
 
 <br/>
 <br />
